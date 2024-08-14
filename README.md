@@ -1,7 +1,5 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Built using:
 
 - Front-end library: React
@@ -32,3 +30,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+Portfolio made by Jacob Smith.
+Site template made by https://github.com/judygab.
