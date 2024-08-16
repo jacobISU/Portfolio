@@ -4,7 +4,7 @@ import logo from '../assets/img/JacobSmith_Logo_TopLeft.png';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/github.svg';
 import navIcon3 from '../assets/img/mailIcon.svg';
-import resume from '../assets/JKSmith_Resume.pdf';
+import resume from '../assets/JSmith_Resume.pdf';
 import { HashLink } from 'react-router-hash-link';
 import {
   BrowserRouter as Router

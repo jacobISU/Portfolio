@@ -501,6 +501,25 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-radius: 10px; /* Optional: Add rounded corners */
 }
 
+.video-container {
+  position: relative;
+  width: 100%;
+  max-width: 100%; /* Limits the video to the container's width */
+  height: auto; /* Ensures the container resizes based on content */
+  overflow: hidden;
+}
+
+.video-container h4 {
+  text-align: center; /* Optional: center the heading */
+  margin-bottom: 10px; /* Optional: space between heading and video */
+}
+
+.video-container video {
+  width: 100%;
+  height: auto; /* Maintains the aspect ratio of the video */
+  display: block;
+}
+
 /************ Contacts Css ************/
 .contact {
   background: linear-gradient(90.21deg, rgba(12, 90, 22, 0.7) -5.91%, rgba(2, 15, 64, 0.716) 111.58%);
